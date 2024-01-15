@@ -2,11 +2,11 @@
   "products": [
     {
       "id": 10001,
-      "name": "Basics To Advanced In React",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 29,
-      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "name": "Sombra Color Studio BEAUTY GLAZED",
+      "overview": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
+      "long_description": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
+      "price": 35000,
+      "poster": "https://visualgraphicmd.com.co/imagenes/2.png",
       "image_local": "/assets/images/10001.avif",
       "rating": 5,
       "in_stock": true,
@@ -15,11 +15,11 @@
     },
     {
       "id": 10002,
-      "name": "Django Framework for Beginners",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 19,
-      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "name": "Protector Solar Facial Hombre",
+      "overview": "¡Protege tu piel con un Protector Solar diseñado exclusivamente para hombres!",
+      "long_description": "Factor de protección solar del 50+. Tiene el máximo nivel de protección solar comprobado científicamente. Textura fluida, ligera y de rápida absorción. Tiene una suave fragancia juvenil, masculina y refrescante.",
+      "price": 25000,
+      "poster": "https://visualgraphicmd.com.co/imagenes/1.png",
       "image_local": "/assets/images/10002.avif",
       "rating": 5,
       "in_stock": true,
@@ -28,11 +28,11 @@
     },
     {
       "id": 10003,
-      "name": "The Future of Design Systems",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 29,
-      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "name": "Sombra Color Studio BEAUTY GLAZED",
+      "overview": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
+      "long_description": "Paleta de sombras con 35 tonos. Tonos coloridos. Acabado mate y satinado. Calidad profesional.",
+      "price": 35000,
+      "poster": "https://visualgraphicmd.com.co/imagenes/2.png",
       "image_local": "/assets/images/10003.avif",
       "rating": 3,
       "in_stock": true,
@@ -196,47 +196,6 @@
       "best_seller": false
     }
   ],
-  "featured_products": [
-    {
-      "id": 10004,
-      "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 99,
-      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10004.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 7,
-      "best_seller": true
-    },
-    {
-      "id": 10006,
-      "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 99,
-      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10006.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 10,
-      "best_seller": false
-    },
-    {
-      "id": 10008,
-      "name": "JavaScript Basics To Advance With Shubham",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 29,
-      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10008.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": true
-    }
-  ],
   "orders": [],
   "users": [
     {
@@ -244,6 +203,12 @@
       "password": "$2a$10$cWVAgKMIiNSC9JhtnxNkEOH.vVC44.cRAG/xCGGarn84AopGjC0ny",
       "name": "bayron",
       "id": 1
+    },
+    {
+      "email": "elfundador@funcol.edu.co",
+      "password": "$2a$10$KbDWyOmRGjGw/l3qgCaq/ufpMpW/xWuh4fPqHa4EGTjBw2Kc6JltS",
+      "name": "bayron",
+      "id": 2
     }
   ]
 }
