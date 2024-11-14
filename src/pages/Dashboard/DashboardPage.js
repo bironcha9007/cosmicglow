@@ -7,7 +7,7 @@ import { DashboardEmpty } from "./components/DashboardEmpty";
 
 export const DashboardPage = () => {
   const [orders, setOrders] = useState([]);
-  useTitle("Dashboard");
+  useTitle("Perfil y Cuenta");
 
   useEffect(() => {
     async function fetchOrders(){
@@ -24,7 +24,7 @@ export const DashboardPage = () => {
   return (
     <main>
       <section>
-        <p className="text-2xl text-center font-semibold dark:text-slate-100 my-10 underline underline-offset-8">My Dashboard</p>
+        <p className="text-2xl text-center font-semibold dark:text-slate-100 my-10 underline underline-offset-8">Mi Cuenta</p>
       </section>
 
       <section>

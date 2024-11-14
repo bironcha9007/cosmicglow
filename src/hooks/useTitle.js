@@ -3,7 +3,7 @@ import { useEffect } from "react";
 export const useTitle = (title) => {
 
     useEffect(() => {
-        document.title = `${title} / COSMIC GLOW`;
+        document.title = `${title} / EDU-EASY APP`;
     }, [title]);
 
   return null;

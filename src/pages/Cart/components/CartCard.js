@@ -14,7 +14,7 @@ export const CartCard = ({product}) => {
             <Link to={`products/${product.id}`}>
               <p className="text-lg ml-2 dark:text-slate-200">{product.name}</p>
             </Link>            
-            <button onClick={() => removeFromCart(product)} className="text-base ml-2 text-red-400">Remove</button>
+            <button onClick={() => removeFromCart(product)} className="text-base ml-2 text-red-400">Eliminar</button>
           </div>
       </div>
       <div className="text-lg m-2 dark:text-slate-200">

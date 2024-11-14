@@ -5,7 +5,7 @@ import { Testimonials } from "./components/Testimonials";
 import { Faq } from "./components/Faq";
 
 export const HomePage = () => {
-  useTitle("Access Latest Computer Science eBooks");
+  useTitle("Bienvenido a Edu-Easy");
 
   return (
     <main>

@@ -4,7 +4,7 @@ import { OrderSuccess } from "./components/OrderSuccess";
 import { OrderFail } from "./components/OrderFail";
 
 export const OrderPage = () => {
-  useTitle("Order Summary");
+  useTitle("Ordenes y Compras");
   const { state } = useLocation();
 
   return (
