@@ -3,6 +3,7 @@ export async function getProductList(searchTerm){
     if(!response.ok){
         throw { message: response.statusText, status: response.status };//eslint-disable-line
     }
+    
     const data = await response.json()
     return data;
 }

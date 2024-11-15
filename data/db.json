@@ -1,6 +1,6 @@
 {
   "products": [
-  {
+    {
       "id": 10001,
       "name": "Basics To Advanced In React",
       "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
@@ -371,6 +371,48 @@
       "password": "$2a$10$gKWsb4V1wEWr/BvVKMU60.a534dBtb7zogS/r4xbiB9cdxWERNmXm",
       "name": "funda",
       "id": 3
+    },
+    {
+      "email": "te@gmail.com",
+      "password": "$2a$10$qR76ptPK0D6SXuFHHYOaPuzUP4LDNE0zsnBJjhPawDMPSTtnmuMPW",
+      "name": "te",
+      "id": 4
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$uWKo.TYbo04SUM0oZ72hPuWNP4Hp/eBbVw41XFsefguDlpTbd6zkm",
+      "name": "a",
+      "id": 5
+    },
+    {
+      "email": "aa@gmail.com",
+      "password": "$2a$10$Cg4OGKxR.w7sOxU1NUT6ueDFHvVl2k/uXvgbkSu9QjbBniqpL/YqG",
+      "name": "aa",
+      "id": 6
+    },
+    {
+      "email": "aaa@gmail.com",
+      "password": "$2a$10$SDPEvHxYQbLbJQN5jFAbq.HW.Plui7HQcCm.zFOGbeml8MmFFgfdi",
+      "name": "aa",
+      "id": 7
+    },
+    {
+      "email": "cas@gmail.com",
+      "password": "$2a$10$cromgkCPudX0sTIY5jbBguenBovOvBlLqnlJLg4en4Dt3ru6ZbTSK",
+      "name": "cas",
+      "id": 8
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "$2a$10$wXfXilyoNt2jJ4jh76b3KuS3Jg.grVJWOP/LGq/ZJ7P0xo3uPfFQe",
+      "name": "q",
+      "id": 9
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$KgD9pdSpnP118iABqB78AefjMvTe6Y2gEk.hp7yosOt6oXl5JJaEG",
+      "name": "ss",
+      "id": 10
     }
   ]
 }
